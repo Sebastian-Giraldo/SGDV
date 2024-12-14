@@ -1,6 +1,6 @@
-# Sistema de Gestion de Ventas 
-## 2024 - 2
+# Sistema de Gestion de Ventas
 
+## 2024 - 2
 
 En este proyecto se va crear un sistema de gestion de ventas sencillo para pc de escasos recursos.
 
